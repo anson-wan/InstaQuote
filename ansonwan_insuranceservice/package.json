@@ -1,0 +1,7 @@
+{
+  "name": "ansonwan/InsuranceService",
+  "author": "ansonwan",
+  "dependencies": {
+    "lib": "latest"
+  }
+}
